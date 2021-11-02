@@ -19,7 +19,7 @@ DefaultContentLanguage: en
 hasCJKLanguage: false
 
 permalinks:
-    post: /:year/:slug/
+    post: /:year/:filename/
     page: /:slug/
 
 params:

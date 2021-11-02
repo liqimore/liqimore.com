@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMU 15-445/645 - Homework assignment 1 SQL"
+title: "CMU 15-445/645 - Homework assignment #1 SQL"
 description: "doing 15445 #1 homework - sql query"
 date: 2021-05-27
 tags: [cmu, database]
