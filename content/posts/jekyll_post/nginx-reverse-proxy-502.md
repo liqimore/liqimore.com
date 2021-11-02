@@ -10,7 +10,6 @@ tags:
   - kale
   - 环境准备
 title: 解决Nginx反代80端口出现502错误
-url: /2018/08/28/nginx-reverse-proxy-502/
 ---
 
 

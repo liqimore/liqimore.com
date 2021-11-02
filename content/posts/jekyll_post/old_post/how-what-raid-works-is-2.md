@@ -7,8 +7,6 @@ date: 2016-08-19 10:04:00+00:00
 link: http://blog.codefog.com/how-what-raid-works-is-2.html
 slug: how-what-raid-works-is-2
 title: 什么是Raid技术以及其实现方法 - part 2
-url: /2016/08/19/how-what-raid-works-is-2/
-wordpress_id: 52
 ---
 
 

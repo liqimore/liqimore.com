@@ -8,7 +8,6 @@ tags:
   - 面试,
   - plans
 title: 近期安排+京东百度面经
-url: /2018/05/01/intern-plans/
 ---
 
 

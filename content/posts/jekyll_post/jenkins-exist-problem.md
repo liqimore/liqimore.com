@@ -10,7 +10,6 @@ tags:
   - kale
   - 环境准备
 title: 'Centos7启动Jenkins服务状态Active: active (exited)的问题解决'
-url: /2018/08/27/jenkins-exist-problem/
 ---
 
 

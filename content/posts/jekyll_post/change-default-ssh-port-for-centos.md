@@ -9,7 +9,6 @@ tags:
   - linux
   - centos7
 title: CentOS 7/8 修改默认SSH端口（开启SELinux）
-url: /2020/09/01/change-default-ssh-port-for-centos/
 ---
 
 

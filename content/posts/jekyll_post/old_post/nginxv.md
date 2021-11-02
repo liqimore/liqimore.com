@@ -7,8 +7,6 @@ date: 2016-07-31 01:58:00+00:00
 link: http://blog.codefog.com/nginxv.html
 slug: nginxv
 title: Nginx配置文件详解以及含义
-url: /2016/07/31/nginxv/
-wordpress_id: 43
 ---
 
 

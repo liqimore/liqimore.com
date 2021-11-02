@@ -7,7 +7,6 @@ description: jekyll reconfigured test.
 tags:
   - test
 title: jekyll reconfigured test
-url: /2020/12/19/jekyll-writing-test/
 ---
 
 

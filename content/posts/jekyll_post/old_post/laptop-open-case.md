@@ -8,8 +8,6 @@ date: 2016-07-21 08:37:00+00:00
 link: http://blog.codefog.com/laptop-open-case.html
 slug: laptop-open-case
 title: Macbook pro 13.3 和 微星GE62-489XCN 两台笔记本的开箱
-url: /2016/07/21/laptop-open-case/
-wordpress_id: 42
 ---
 
 

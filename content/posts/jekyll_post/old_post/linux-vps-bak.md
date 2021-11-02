@@ -10,8 +10,6 @@ tags:
   - linux自动备份
   - vps备份
 title: Linux服务器异地备份,提高数据安全性 - 各种方法详解推荐
-url: /2016/05/28/linux-vps-bak/
-wordpress_id: 38
 ---
 
 

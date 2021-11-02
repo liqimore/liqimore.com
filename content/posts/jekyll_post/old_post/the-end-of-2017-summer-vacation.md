@@ -7,8 +7,6 @@ date: 2017-09-01 19:06:00+00:00
 link: http://blog.codefog.com/the-end-of-2017-summer-vacation.html
 slug: the-end-of-2017-summer-vacation
 title: 学习生活中倒数第二个暑假结束
-url: /2017/09/01/the-end-of-2017-summer-vacation/
-wordpress_id: 674
 ---
 
 

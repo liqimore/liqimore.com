@@ -7,8 +7,6 @@ date: 2016-08-04 00:31:44+00:00
 link: http://blog.codefog.com/dns-qcloud.html
 slug: dns-qcloud
 title: 腾讯云服务器CentOS6.5无法更新源解决办法,提示:Couldn't resolve host 'mirrors.tencentyun.com
-url: /2016/08/04/dns-qcloud/
-wordpress_id: 44
 ---
 
 

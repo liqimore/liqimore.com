@@ -7,8 +7,6 @@ date: 2016-03-06 15:34:16+00:00
 link: http://blog.codefog.com/poj-guide-list.html
 slug: poj-guide-list
 title: Poj算法做题顺序【转】
-url: /2016/03/06/poj-guide-list/
-wordpress_id: 20
 ---
 
 

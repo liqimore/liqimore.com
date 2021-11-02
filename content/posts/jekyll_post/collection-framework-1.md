@@ -8,7 +8,6 @@ tags:
   - java
   - collection framework
 title: Basic knowledge of collection framework - 1
-url: /2018/04/02/collection-framework-1/
 ---
 
 

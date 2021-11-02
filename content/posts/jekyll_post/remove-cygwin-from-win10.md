@@ -8,7 +8,6 @@ tags:
   - cygwin
   - gcc
 title: How to completely uninstall/remove cygwin from windows10
-url: /2021/08/17/remove-cygwin-from-win10/
 ---
 
 

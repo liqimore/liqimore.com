@@ -7,8 +7,6 @@ date: 2016-08-12 00:53:12+00:00
 link: http://blog.codefog.com/poi-1.html
 slug: poi-1
 title: 《疑犯追踪》十大经典台词
-url: /2016/08/12/poi-1/
-wordpress_id: 48
 ---
 
 

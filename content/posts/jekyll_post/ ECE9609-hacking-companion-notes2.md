@@ -9,7 +9,6 @@ tags:
   - ECE9609
   - uwo
 title: ECE9609 - Notes for Sudo Heap-based Buffer Overflow (CVE-2021-3156)
-url: /2021/03/20/ ECE9609-hacking-companion-notes2/
 ---
 
 

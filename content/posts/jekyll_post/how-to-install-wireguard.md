@@ -9,7 +9,6 @@ tags:
   - VPN
   - wireguard
 title: 如何在Ubuntu/Centos上安装Wireguard工具 | how to install Wireguard on Ubuntu/CentOS
-url: /2018/11/12/how-to-install-wireguard/
 ---
 
 

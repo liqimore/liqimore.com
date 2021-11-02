@@ -5,7 +5,6 @@ description: How to setup and use the blog
 tags:
   - jekyll
 title: Quick Start Guide
-url: /2017/07/21/quick-start/
 ---
 
 

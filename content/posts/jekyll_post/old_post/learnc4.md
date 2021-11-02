@@ -7,8 +7,6 @@ date: 2016-02-13 21:24:57+00:00
 link: http://blog.codefog.com/learnc4.html
 slug: learnc4
 title: c语言学习心得（四） -- 按照字典顺序排序的分析
-url: /2016/02/13/learnc4/
-wordpress_id: 17
 ---
 
 

@@ -9,7 +9,6 @@ tags:
   - uwo
   - ECE9609
 title: ECE9609 - assignment 1, PicoCTF easy challenges
-url: /2021/01/22/ECE-9609-assignment-1-picoCTF/
 ---
 
 

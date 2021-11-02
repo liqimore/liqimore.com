@@ -7,8 +7,6 @@ date: 2016-04-17 17:19:00+00:00
 link: http://blog.codefog.com/belog-1.html
 slug: belog-1
 title: Typecho主题Belog制作中，即将发布
-url: /2016/04/17/belog-1/
-wordpress_id: 31
 ---
 
 

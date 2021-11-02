@@ -9,8 +9,6 @@ slug: http-to-https
 tags:
   - nginx从http跳转到https的方法
 title: Nginx从http跳转到https的方法
-url: /2016/04/23/http-to-https/
-wordpress_id: 32
 ---
 
 

@@ -7,8 +7,6 @@ date: 2015-10-25 00:12:16+00:00
 link: http://blog.codefog.com/builder.html
 slug: builder
 title: C/C++编译器的选择
-url: /2015/10/25/builder/
-wordpress_id: 9
 ---
 
 

@@ -7,8 +7,6 @@ date: 2015-03-21 22:29:00+00:00
 link: http://blog.codefog.com/test-mweb-html.html
 slug: test-mweb-html
 title: testing for wordpress publishing
-url: /2015/03/21/test-mweb-html/
-wordpress_id: 471
 ---
 
 

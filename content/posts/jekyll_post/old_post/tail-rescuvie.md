@@ -10,8 +10,6 @@ slug: tail-rescuvie
 tags:
   - Python3
 title: 尾递归--避免栈溢出
-url: /2017/02/08/tail-rescuvie/
-wordpress_id: 327
 ---
 
 

@@ -6,7 +6,6 @@ tags:
   - test,
   - style
 title: A Full and Comprehensive Style Test
-url: /2016/08/15/style-test/
 ---
 
 

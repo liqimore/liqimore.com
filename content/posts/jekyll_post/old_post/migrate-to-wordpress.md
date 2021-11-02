@@ -7,8 +7,6 @@ date: 2016-10-29 14:08:13+00:00
 link: http://blog.codefog.com/migrate-to-wordpress.html
 slug: migrate-to-wordpress
 title: 博客转为WP,并且取消https,开启了Memcached
-url: /2016/10/29/migrate-to-wordpress/
-wordpress_id: 91
 ---
 
 

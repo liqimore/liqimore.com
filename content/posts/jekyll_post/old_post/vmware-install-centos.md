@@ -7,8 +7,6 @@ date: 2015-11-01 22:50:43+00:00
 link: http://blog.codefog.com/vmware-install-centos.html
 slug: vmware-install-centos
 title: VMware虚拟机安装CentOS做本地测试的方法
-url: /2015/11/01/vmware-install-centos/
-wordpress_id: 14
 ---
 
 

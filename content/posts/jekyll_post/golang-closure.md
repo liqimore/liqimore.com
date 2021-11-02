@@ -8,7 +8,6 @@ description: go语言闭包
 tags:
   - golang闭包
 title: go语言中对闭包的理解和实例演示
-url: /2020/02/28/golang-closure/
 ---
 
 

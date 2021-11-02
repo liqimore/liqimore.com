@@ -8,8 +8,6 @@ excerpt: "ss是使用文本文档来保存代理规则的,GFWlist也是如此,�
 link: http://blog.codefog.com/custom-user-rule.html
 slug: custom-user-rule
 title: SS代理用户自定义规则(user-rule)的方法和格式
-url: /2017/02/05/custom-user-rule/
-wordpress_id: 322
 ---
 
 

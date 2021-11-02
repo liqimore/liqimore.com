@@ -7,8 +7,6 @@ date: 2015-10-29 00:06:15+00:00
 link: http://blog.codefog.com/learnc1.html
 slug: learnc1
 title: c语言学习心得（一）
-url: /2015/10/29/learnc1/
-wordpress_id: 12
 ---
 
 

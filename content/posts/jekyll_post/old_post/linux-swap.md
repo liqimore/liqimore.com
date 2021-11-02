@@ -7,8 +7,6 @@ date: 2016-08-04 00:34:00+00:00
 link: http://blog.codefog.com/linux-swap.html
 slug: linux-swap
 title: linux下添加SWAP交换空间
-url: /2016/08/04/linux-swap/
-wordpress_id: 45
 ---
 
 

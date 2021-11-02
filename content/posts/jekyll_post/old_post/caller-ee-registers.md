@@ -7,8 +7,6 @@ date: 2016-06-10 20:30:00+00:00
 link: http://blog.codefog.com/caller-ee-registers.html
 slug: caller-ee-registers
 title: 栈和函数调用惯例与参数入栈顺序与虚地址空间的理解
-url: /2016/06/10/caller-ee-registers/
-wordpress_id: 40
 ---
 
 

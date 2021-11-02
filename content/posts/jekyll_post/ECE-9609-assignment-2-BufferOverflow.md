@@ -9,7 +9,6 @@ tags:
   - uwo
   - ECE9609
 title: ECE9609 - assignment 2, PicoCTF buffer overflow challenges
-url: /2021/02/05/ECE-9609-assignment-2-BufferOverflow/
 ---
 
 

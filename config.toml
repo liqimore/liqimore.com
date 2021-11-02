@@ -21,7 +21,7 @@ theme = "DoIt"
     # 位于 "themes/DoIt/assets/data/cdn/" 目录
     # 可以在你的项目下相同路径存放你自己的数据文件:
     # "assets/data/cdn/"
-    data = "assets/data/cdn/jsdelivr.yml"
+    # data = "assets/data/cdn/jsdelivr.yml"
 
 [params.page.comment]
       enable = true
@@ -67,3 +67,7 @@ theme = "DoIt"
   [markup.highlight]
     # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+[Permalinks]
+  # posts = ":year/:month/:filename"
+  posts = ":year/:filename"

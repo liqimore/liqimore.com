@@ -12,8 +12,6 @@ tags:
   - Ryzen 1700 超高性价比装机指南
   - 超高性价比装机指南
 title: Ryzen 1700 超高性价比装机指南
-url: /2017/10/02/ryzen-1700-cheap-build-1/
-wordpress_id: 698
 ---
 
 

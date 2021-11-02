@@ -10,7 +10,6 @@ tags:
   - upcloud评测
   - linode对比
 title: 项目服务器选择，Linode vs Vultr vs Upcloud
-url: /2020/10/25/project-server-choice/
 ---
 
 # 0. intro

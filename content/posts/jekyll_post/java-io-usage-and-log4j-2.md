@@ -6,7 +6,6 @@ tags:
   - java
   - 秋招准备
 title: java中的I/O操作详解和log4j的基本使用 - 2(Log4j)
-url: /2018/05/08/java-io-usage-and-log4j-2/
 ---
 
 

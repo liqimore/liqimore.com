@@ -7,8 +7,6 @@ date: 2016-10-29 03:16:43+00:00
 link: http://blog.codefog.com/gallary-2.html
 slug: gallary-2
 title: gallary
-url: /2016/10/29/gallary-2/
-wordpress_id: 81
 ---
 
 

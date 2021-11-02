@@ -9,7 +9,6 @@ tags:
   - test,
   - intro
 title: Testing Readability with a Bunch of Text
-url: /2017/01/01/readability/
 ---
 
 

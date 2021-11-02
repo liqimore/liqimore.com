@@ -10,7 +10,6 @@ tags:
   - ArrayList
   - Array
 title: Basic knowledge of collection framework - 2
-url: /2018/04/02/collection-framework-2/
 ---
 
 

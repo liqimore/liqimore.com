@@ -8,7 +8,6 @@ last_updated: May 24, 2018
 tags:
   - gist
 title: 设置git走ssr(socks5)代理
-url: /2018/05/23/setting-git-proxy/
 ---
 
 

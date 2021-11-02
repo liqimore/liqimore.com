@@ -7,8 +7,6 @@ date: 2016-04-11 23:24:00+00:00
 link: http://blog.codefog.com/js-6.html
 slug: js-6
 title: Javascript笔记（六）–History 对象 [重点]
-url: /2016/04/11/js-6/
-wordpress_id: 28
 ---
 
 

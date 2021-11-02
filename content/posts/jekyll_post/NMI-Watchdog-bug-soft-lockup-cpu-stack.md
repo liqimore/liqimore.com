@@ -9,7 +9,6 @@ tags:
   - Linux
   - 环境准备
 title: '解决Linux关不了机开机,报错NMI watchdog: BUG: soft lockup - CPU#2 stuck for 22s的bug'
-url: /2018/11/24/NMI-Watchdog-bug-soft-lockup-cpu-stack/
 ---
 
 

@@ -9,7 +9,6 @@ tags:
   - golang
   - 学习
 title: go语言中struct变量和struct指针的区别
-url: /2020/02/28/difference-between-struct-and-struct-pointer/
 ---
 
 在学习结构体指针的时候有些疑问, 首先定义一个结构体, 初始化结构体和它的结构体指针:

@@ -11,8 +11,6 @@ tags:
   - wordpress恶意代码
   - Wordpress更换主题报错
 title: Wordpress主题被插入恶意代码解决办法
-url: /2015/11/22/bad-code-in-wordpress-theme/
-wordpress_id: 16
 ---
 
 

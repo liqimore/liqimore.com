@@ -8,8 +8,6 @@ excerpt: 早就想把这些照片发出来,正好最近安装了新的相册插�
 link: http://blog.codefog.com/2015-summer-vacation.html
 slug: 2015-summer-vacation
 title: 15年暑假三亚照片
-url: /2016/12/21/2015-summer-vacation/
-wordpress_id: 125
 ---
 
 

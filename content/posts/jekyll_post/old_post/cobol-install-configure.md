@@ -7,8 +7,6 @@ date: 2016-08-14 06:47:00+00:00
 link: http://blog.codefog.com/cobol-install-configure.html
 slug: cobol-install-configure
 title: OpenCobol IDE的安装下载与配置教程 - MacOS + WIN10
-url: /2016/08/14/cobol-install-configure/
-wordpress_id: 51
 ---
 
 

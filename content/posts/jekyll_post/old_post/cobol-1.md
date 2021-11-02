@@ -11,8 +11,6 @@ tags:
   - cobol教程
   - 什么是cobol
 title: 什么是cobol，cobol的重要性 - cobol教程系列 - part1
-url: /2016/09/03/cobol-1/
-wordpress_id: 54
 ---
 
 

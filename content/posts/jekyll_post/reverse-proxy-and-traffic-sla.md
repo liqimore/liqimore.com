@@ -9,7 +9,6 @@ tags:
   - nginx
   - 负载均衡
 title: nginx反向代理https配置方法与实现请求的负载均衡详解
-url: /2019/07/31/reverse-proxy-and-traffic-sla/
 ---
 
 

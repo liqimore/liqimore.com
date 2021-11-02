@@ -11,8 +11,6 @@ tags:
   - theme
   - typecho主题
 title: Theme SEXT-S 1.0
-url: /2016/10/15/theme-sexts/
-wordpress_id: 56
 ---
 
 

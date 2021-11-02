@@ -7,8 +7,6 @@ date: 2016-04-10 23:44:00+00:00
 link: http://blog.codefog.com/js-1.html
 slug: js-1
 title: Javascript笔记（一）-- Date 日期对象
-url: /2016/04/10/js-1/
-wordpress_id: 23
 ---
 
 

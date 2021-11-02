@@ -7,8 +7,6 @@ date: 2016-04-12 01:17:00+00:00
 link: http://blog.codefog.com/js-7.html
 slug: js-7
 title: Javascript笔记（七）–Location Navigator screen 对象
-url: /2016/04/12/js-7/
-wordpress_id: 29
 ---
 
 

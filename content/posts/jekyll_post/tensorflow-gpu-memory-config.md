@@ -9,7 +9,6 @@ tags:
   - ML
   - tensorflow
 title: Limit GPU memory growth in tensorflow 2.4.x by setting environment variable
-url: /2021/03/11/tensorflow-gpu-memory-config/
 ---
 
 

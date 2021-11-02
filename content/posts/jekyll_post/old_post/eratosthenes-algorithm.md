@@ -10,8 +10,6 @@ slug: eratosthenes-algorithm
 tags:
   - 埃拉托色尼筛选法
 title: 高效率素数生成 - 埃拉托色尼筛选法
-url: /2017/02/12/eratosthenes-algorithm/
-wordpress_id: 350
 ---
 
 

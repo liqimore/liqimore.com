@@ -8,8 +8,6 @@ date: 2017-07-24 01:03:19+00:00
 link: http://blog.codefog.com/post-by-open-live-writer.html
 slug: post-by-open-live-writer
 title: Post by open live writer
-url: /2017/07/24/post-by-open-live-writer/
-wordpress_id: 560
 ---
 
 

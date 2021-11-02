@@ -6,7 +6,6 @@ tags:
   - java
   - 秋招准备
 title: 枚举和JAVA的单例模式
-url: /2018/05/06/enum-and-Singleton-Pattern/
 ---
 
 

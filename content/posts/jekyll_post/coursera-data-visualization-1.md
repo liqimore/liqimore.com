@@ -8,7 +8,6 @@ tags:
   - coursera
   - data visualization
 title: 'Coursera: Data Visualization week 1'
-url: /2018/05/30/coursera-data-visualization-1/
 ---
 
 

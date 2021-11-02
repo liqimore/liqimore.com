@@ -8,7 +8,6 @@ tags:
   - demo
   - jekyll
 title: Quick kramdown demo
-url: /2018/05/23/quick-kramdown-demo/
 ---
 
 

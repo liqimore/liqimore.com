@@ -7,8 +7,6 @@ date: 2016-08-19 11:29:00+00:00
 link: http://blog.codefog.com/summary-for-summer-vacation.html
 slug: summary-for-summer-vacation
 title: 暑假总结以及计划完成度
-url: /2016/08/19/summary-for-summer-vacation/
-wordpress_id: 53
 ---
 
 

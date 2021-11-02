@@ -9,7 +9,6 @@ permalink: /2019/2019-plan-2018-summary/
 tags:
   - 2018总结
 title: 2018总结
-url: /2018/12/31/summary-2018/
 ---
 
 

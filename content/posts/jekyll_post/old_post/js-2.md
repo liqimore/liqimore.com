@@ -7,8 +7,6 @@ date: 2016-04-10 23:55:00+00:00
 link: http://blog.codefog.com/js-2.html
 slug: js-2
 title: Javascript笔记（二）–String 字符串对象
-url: /2016/04/10/js-2/
-wordpress_id: 24
 ---
 
 

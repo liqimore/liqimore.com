@@ -7,8 +7,6 @@ date: 2015-11-03 15:09:07+00:00
 link: http://blog.codefog.com/learnc3-2.html
 slug: learnc3-2
 title: c语言学习心得（三）
-url: /2015/11/03/learnc3-2/
-wordpress_id: 15
 ---
 
 

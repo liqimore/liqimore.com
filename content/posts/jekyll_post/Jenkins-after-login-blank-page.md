@@ -10,7 +10,6 @@ tags:
   - kale
   - 环境准备
 title: 解决Jenkins安装完成登陆后显示空白页面
-url: /2018/08/28/Jenkins-after-login-blank-page/
 ---
 
 

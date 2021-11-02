@@ -10,8 +10,6 @@ slug: day01-dive-in-c
 tags:
   - C语言强化
 title: day01- Dive in C
-url: /2017/07/21/day01-dive-in-c/
-wordpress_id: 509
 ---
 
 

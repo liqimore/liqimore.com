@@ -9,7 +9,6 @@ tags:
   - 购物
   - 评测
 title: iPhone 11 Smart Battery Case智能电池壳, 1000元的充电宝?
-url: /2020/02/06/iphone-11-smart-battery-case-review/
 ---
 
 ![IMG_1463.JPEG][1]

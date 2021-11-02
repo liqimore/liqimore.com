@@ -7,8 +7,6 @@ date: 2016-04-11 20:30:00+00:00
 link: http://blog.codefog.com/js-5.html
 slug: js-5
 title: Javascript笔记（五）–window 对象 [重点]
-url: /2016/04/11/js-5/
-wordpress_id: 27
 ---
 
 

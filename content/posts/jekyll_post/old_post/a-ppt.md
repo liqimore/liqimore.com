@@ -8,8 +8,6 @@ date: 2016-05-02 02:59:00+00:00
 link: http://blog.codefog.com/a-ppt.html
 slug: a-ppt
 title: 分享一个PPT-《如何读大学》
-url: /2016/05/02/a-ppt/
-wordpress_id: 37
 ---
 
 

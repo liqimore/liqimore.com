@@ -8,7 +8,6 @@ tags:
   - code,
   - highlighting
 title: Syntax Highlighting Post
-url: /2017/07/20/code-highlighting/
 ---
 
 

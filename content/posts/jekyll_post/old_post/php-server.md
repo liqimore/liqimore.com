@@ -7,8 +7,6 @@ date: 2016-08-06 19:04:24+00:00
 link: http://blog.codefog.com/php-server.html
 slug: php-server
 title: $_SERVER['SCRIPT_NAME']、$_SERVER['SCRIPT_FILENAME']及__FILE__ 的不同
-url: /2016/08/06/php-server/
-wordpress_id: 46
 ---
 
 

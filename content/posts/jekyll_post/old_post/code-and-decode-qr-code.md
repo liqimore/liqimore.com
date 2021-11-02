@@ -7,8 +7,6 @@ date: 2017-07-02 08:32:27+00:00
 link: http://blog.codefog.com/code-and-decode-qr-code.html
 slug: code-and-decode-qr-code
 title: 初识二维码(QR-code)解码与编码
-url: /2017/07/02/code-and-decode-qr-code/
-wordpress_id: 476
 ---
 
 

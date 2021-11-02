@@ -8,7 +8,6 @@ tags:
   - leetcode
   - job
 title: Templates for leetcode problem solutions
-url: /2021/08/26/template-for-leetcode-solutions/
 ---
 
 

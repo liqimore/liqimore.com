@@ -8,7 +8,6 @@ tags:
   - cmu
   - database
 title: 'CMU 15-445/645 - Homework assignment #1 SQL'
-url: /2021/05/27/ CMU15445-database-system-homework1/
 ---
 
 

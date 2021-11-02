@@ -7,8 +7,6 @@ date: 2016-08-13 18:33:00+00:00
 link: http://blog.codefog.com/aa.html
 slug: aa
 title: markdown测试
-url: /2016/08/13/aa/
-wordpress_id: 49
 ---
 
 

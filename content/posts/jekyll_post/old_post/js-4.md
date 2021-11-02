@@ -7,8 +7,6 @@ date: 2016-04-11 17:59:00+00:00
 link: http://blog.codefog.com/js-4.html
 slug: js-4
 title: Javascript笔记（四）–Array 数组对象
-url: /2016/04/11/js-4/
-wordpress_id: 26
 ---
 
 

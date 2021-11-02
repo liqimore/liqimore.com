@@ -11,8 +11,6 @@ tags:
   - 全球付注册
   - 无信用卡买国外东西
 title: 无信用卡购买国外vps的方法--全球付
-url: /2015/10/26/no-credit-card-buy-vps/
-wordpress_id: 10
 ---
 
 

@@ -7,8 +7,6 @@ date: 2016-03-06 15:43:32+00:00
 link: http://blog.codefog.com/poj-list.html
 slug: poj-list
 title: POJ做题记录
-url: /2016/03/06/poj-list/
-wordpress_id: 21
 ---
 
 

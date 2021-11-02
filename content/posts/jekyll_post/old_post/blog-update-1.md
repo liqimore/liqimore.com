@@ -20,8 +20,6 @@ excerpt: '1.安装了相册插件Final Tiles Gallery Lite 免费版 非常好用
 link: http://blog.codefog.com/blog-update-1.html
 slug: blog-update-1
 title: 博客主题优化设置
-url: /2016/12/20/blog-update-1/
-wordpress_id: 118
 ---
 
 

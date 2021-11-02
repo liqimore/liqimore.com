@@ -10,8 +10,6 @@ slug: day0506-a-starter-in-c
 tags:
   - c++基础
 title: day05~06- A starter in C++
-url: /2017/08/01/day0506-a-starter-in-c/
-wordpress_id: 671
 ---
 
 

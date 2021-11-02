@@ -9,7 +9,6 @@ tags:
   - 算法
   - 面试
 title: 算法 - 字符串旋转
-url: /2018/09/17/algo-string-reverse/
 ---
 
 

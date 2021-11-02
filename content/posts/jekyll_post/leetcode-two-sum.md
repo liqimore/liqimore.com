@@ -9,7 +9,6 @@ tags:
   - job
   - TwoSum
 title: 1. Two Sum
-url: /2021/08/27/leetcode-two-sum/
 ---
 
 

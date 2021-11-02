@@ -7,8 +7,6 @@ date: 2016-05-02 01:45:00+00:00
 link: http://blog.codefog.com/week-1.html
 slug: week-1
 title: 周记1
-url: /2016/05/02/week-1/
-wordpress_id: 36
 ---
 
 

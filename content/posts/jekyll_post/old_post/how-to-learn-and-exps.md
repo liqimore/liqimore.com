@@ -25,8 +25,6 @@ excerpt: '推荐每个希望走程序员道路的人看一看,作者是一个学
 link: http://blog.codefog.com/how-to-learn-and-exps.html
 slug: how-to-learn-and-exps
 title: '[转载]「代码家」的学习过程和学习经验分享'
-url: /2017/02/05/how-to-learn-and-exps/
-wordpress_id: 318
 ---
 
 

@@ -7,8 +7,6 @@ date: 2016-04-10 23:59:00+00:00
 link: http://blog.codefog.com/js-3.html
 slug: js-3
 title: Javascript笔记（三）–Math对象
-url: /2016/04/10/js-3/
-wordpress_id: 25
 ---
 
 
