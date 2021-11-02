@@ -9,6 +9,8 @@ draft: false
 Hugo Theme Stack
 Card-style Hugo theme designed for bloggers.
 
+![myDesk](DSC08131.JPG)
+
 Demo
 Example Site
 

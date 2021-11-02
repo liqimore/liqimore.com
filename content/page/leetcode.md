@@ -1,9 +1,7 @@
 ---
-layout: about
 title: "Leetcode Problems"
-date: 2021-08-22
-permalink: /leetcode/
-comments: true
+date: '2021-08-22'
+license: CC BY-NC-ND
 ---
 
 ## Solved Problem List
