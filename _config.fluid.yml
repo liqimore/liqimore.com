@@ -51,23 +51,23 @@ code:
     # 实现高亮的库，对应下面的设置
     # Highlight library
     # Options: highlightjs | prismjs
-    lib: "highlightjs"
+    lib: "prismjs"
 
     highlightjs:
       # 在链接中挑选 style 填入
       # Select a style in the link
       # See: https://highlightjs.org/static/demo/
-      style: "Atom One Dark"
+      style: "Stackoverflow Dark"
 
       # 是否根据 style 改变代码背景色（如果 style 是深色背景别忘了开启此项）
       # If true, the code background will change color based on the style (If style has a dark background, don't forget to true)
-      bg_color: false
+      bg_color: true
 
     prismjs:
       # 在下方链接页面右侧的圆形按钮挑选 style 填入，也可以直接填入 css 链接
       # Select the style button on the right side of the link page, you can also set the CSS link
       # See: https://prismjs.com/
-      style: "default"
+      style: "SOLARIZED LIGHT"
 
       # 设为 true 高亮将本地静态生成（并只支持部分 prismjs 插件），设为 false 高亮将在浏览器通过 js 生成
       # If true, it will be generated locally (but some prismjs plugins are not supported). If false, it will be generated via JS in the browser
@@ -499,7 +499,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/liqimore/liqimore.com@latest/source/assets/img/post.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -793,7 +793,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/liqimore/liqimore.com@latest/source/assets/img/archive.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -805,7 +805,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/liqimore/liqimore.com@latest/source/assets/img/others.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -835,7 +835,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/liqimore/liqimore.com@latest/source/assets/img/others.jpg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -853,13 +853,13 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/liqimore/liqimore.com@latest/source/assets/img/about.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
-  avatar: /img/avatar.png
+  avatar: https://cdn.jsdelivr.net/gh/liqimore/liqimore.com@latest/source/assets/img/avatar.jpg
   name: "Fluid"
-  intro: "An elegant theme for Hexo"
+  intro: "Just another coder."
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
@@ -902,7 +902,7 @@ links:
   banner_img: /img/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  subtitle:
+  subtitle: 
   # 友链的成员项
   # Member item of page
   items:
