@@ -104,4 +104,10 @@ theme: fluid
 deploy:
   type: ''
 
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
 
