@@ -11,10 +11,6 @@ tags:
 title: 1. Two Sum
 ---
 
-
-* table of contents
-{:toc .toc}
-
 ## Problem
 
 <https://leetcode-cn.com/problems/two-sum/>

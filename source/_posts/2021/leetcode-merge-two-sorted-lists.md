@@ -12,9 +12,6 @@ title: 21. Merge Two Sorted Lists
 ---
 
 
-* table of contents
-{:toc .toc}
-
 ## Problem
 
 <https://leetcode-cn.com/problems/merge-two-sorted-lists/>
@@ -68,6 +65,6 @@ class Solution {
 3. 比较list1和list2的当前值，把curr指针指向小的那一个list
 4. list和curr指针均向后移动
 5. 循环直到其中一个list为null
-6. 由于另一个非null的list还有元素，所以需要把它附加到curr上，同时解决输入其中一个list直接为空的情况（list1为空，则curr.net = list2）
+6. 由于另一个非null的list还有元素，所以需要把它附加到curr上，同时解决输入其中一个list直接为空的情况（list1为空，则curr.next = list2）
 
 ## Reference
